@@ -66,7 +66,8 @@ I'm currently building **[Atrium](#-currently-building)**, an Executive Command 
 - Achieved **98% accuracy** in full stock/inventory reconciliation between physical and system records
 - Reduced account statement dispute rates by **70%** through streamlined approval and invoicing workflows
 - Boosted lead generation by **35%** through system automation of client order capture
-- Recognised with the **NRL (Mubadala Health) Employee Award** for revenue & billing collection performance during COVID-19
+- Recognised with the **NRL (Mubadala Health) Employee Award** for revenue & billing collection performance during COVID-19.
+- Managed and oversaw an AED 550M receivables portfolio, driving strategic recovery initiatives that achieved approximately 95% collection of previously outstanding bad debts, significantly increasing cash realization and strengthening the overall value of the receivables portfolio.
 
 ---
 
@@ -80,7 +81,7 @@ I'm currently building **[Atrium](#-currently-building)**, an Executive Command 
 
 ### ✍️ Writing
 
-I write about strategic executive support, operational excellence, and the hidden skills behind great business operations — [find my articles on LinkedIn](https://www.linkedin.com/in/csofong/).
+I write about strategic executive support, operational excellence, and the hidden skills behind great business operations  [find my articles on LinkedIn](https://www.linkedin.com/in/csofong/).
 
 ---
 
