@@ -1,16 +1,95 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**csofong/csofong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Cindy Sheil 👋
 
-Here are some ideas to get you started:
+### Empowering Founders | Driving Executive Success, Operational Excellence & Business Growth
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Dubai, United Arab Emirates &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/csofong/)
+
+</div>
+
+---
+
+### 🎯 About Me
+
+With **9+ years** of experience across executive support, financial administration, revenue operations, and process optimisation, I specialise in building scalable operational frameworks and transforming operational and financial data into decisions leadership can act on.
+
+I've partnered closely with C-suite executives to streamline operations, strengthen governance, optimise costs, and improve organisational efficiency — spanning revenue cycle management, budgeting, procurement, compliance, executive office management, and cross-functional project coordination.
+
+I'm currently building **[Atrium](#-currently-building)**, an Executive Command Desk designed to give lean teams the operational leverage of a much larger organisation.
+
+---
+
+### 🧩 Core Expertise
+
+- 🗂️ Executive Office Management & Contract Administration
+- 💰 Financial Administration & Revenue Operations
+- 📊 Data Analysis & Business Reporting
+- 📈 KPI Development & Performance Monitoring
+- 🔗 Cross-Functional Project Coordination
+- 🛡️ Governance, Compliance & Risk Management
+- 🤝 Vendor & Contract Management
+- 🖥️ CRM & ERP Systems (Salesforce, Microsoft Dynamics)
+
+---
+
+### 🛠️ Tools & Systems
+
+![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-CRM-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Microsoft Dynamics](https://img.shields.io/badge/Microsoft%20Dynamics-ERP-002050?style=flat-square&logo=microsoft&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Data-Analytics-4B8BBE?style=flat-square)
+![Process Automation](https://img.shields.io/badge/Process-Automation-6A5ACD?style=flat-square)
+![KPI Reporting](https://img.shields.io/badge/KPI-Reporting-2E8B57?style=flat-square)
+![Dashboards](https://img.shields.io/badge/Dashboard-Development-FF8C00?style=flat-square)
+
+---
+
+### 🚀 Currently Building
+
+**Atrium — Executive Command Desk**
+> Managing time has become a job within the job. Atrium helps EAs, founders, and lean teams manage scheduling, multi-timezone coordination, travel, priorities, and productivity — all from one centralised desk.
+
+- 🗓️ Scheduling & diary management
+- 🌍 Multi-timezone intelligence & conflict detection
+- ✈️ Travel & schedule coordination
+- 📊 Productivity & time-use analytics
+- 🔔 Real-time notifications & calendar integrations
+
+*Currently onboarding founding users — reach out via LinkedIn if you're an EA, founder, or operator who wants to shape the product.*
+
+---
+
+### 🏆 Highlights & Impact
+
+- Exceeded revenue collection KPIs by **95%+** through cross-functional financial process alignment
+- Achieved **98% accuracy** in full stock/inventory reconciliation between physical and system records
+- Reduced account statement dispute rates by **70%** through streamlined approval and invoicing workflows
+- Boosted lead generation by **35%** through system automation of client order capture
+- Recognised with the **NRL (Mubadala Health) Employee Award** for revenue & billing collection performance during COVID-19
+
+---
+
+### 📚 Recent Learning
+
+- Hybrid Facilitation for Business Analysis *(LinkedIn Learning, 2026)*
+- Process Model Analysis *(LinkedIn Learning, 2026)*
+- 14+ licenses & certifications in business analysis, process improvement, and facilitation
+
+---
+
+### ✍️ Writing
+
+I write about strategic executive support, operational excellence, and the hidden skills behind great business operations — [find my articles on LinkedIn](https://www.linkedin.com/in/csofong/).
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/csofong/)
+
+*Open to conversations on operational excellence, executive support, and building Atrium.*
+
+</div>
