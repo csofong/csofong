@@ -14,7 +14,7 @@
 
 With **9+ years** of experience across executive support, financial administration, revenue operations, and process optimisation, I specialise in building scalable operational frameworks and transforming operational and financial data into decisions leadership can act on.
 
-I've partnered closely with C-suite executives to streamline operations, strengthen governance, optimise costs, and improve organisational efficiency — spanning revenue cycle management, budgeting, procurement, compliance, executive office management, and cross-functional project coordination.
+I've partnered closely with C-suite executives to streamline operations, strengthen governance, optimise costs, and improve organisational efficiency  spanning revenue cycle management, budgeting, procurement, compliance, executive office management, and cross functional project coordination.
 
 I'm currently building **[Atrium](#-currently-building)**, an Executive Command Desk designed to give lean teams the operational leverage of a much larger organisation.
 
@@ -47,8 +47,8 @@ I'm currently building **[Atrium](#-currently-building)**, an Executive Command 
 
 ### 🚀 Currently Building
 
-**Atrium — Executive Command Desk**
-> Managing time has become a job within the job. Atrium helps EAs, founders, and lean teams manage scheduling, multi-timezone coordination, travel, priorities, and productivity — all from one centralised desk.
+**Atrium | The Executive Command Desk**
+> Managing time has become a job within the job. Atrium helps EAs, founders, and lean teams manage scheduling, multi-timezone coordination, travel, priorities, and productivity  all from one centralised desk.
 
 - 🗓️ Scheduling & diary management
 - 🌍 Multi-timezone intelligence & conflict detection
