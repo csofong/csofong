@@ -12,7 +12,7 @@
 
 ### 🎯 About Me
 
-With **9+ years** of experience across executive support, financial administration, revenue operations, and process optimisation, I specialise in building scalable operational frameworks and transforming operational and financial data into decisions leadership can act on.
+With **10+ years** of experience across executive support, financial administration, revenue operations, and process optimisation, I specialise in building scalable operational frameworks and transforming operational and financial data into decisions leadership can act on.
 
 I've partnered closely with C-suite executives to streamline operations, strengthen governance, optimise costs, and improve organisational efficiency  spanning revenue cycle management, budgeting, procurement, compliance, executive office management, and cross functional project coordination.
 
