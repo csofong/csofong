@@ -12,9 +12,9 @@
 
 ### 🎯 About Me
 
-With **10+ years** of experience across executive support, financial administration, revenue operations, and process optimisation, I specialise in building scalable operational frameworks and transforming operational and financial data into decisions leadership can act on.
+With **10+ years** of experience across executive support, financial administration, revenue operations, and process optimisation, I specialise in building scalable operational frameworks and tran[...]
 
-I've partnered closely with C-suite executives to streamline operations, strengthen governance, optimise costs, and improve organisational efficiency  spanning revenue cycle management, budgeting, procurement, compliance, executive office management, and cross functional project coordination.
+I've partnered closely with C-suite executives to streamline operations, strengthen governance, optimise costs, and improve organisational efficiency  spanning revenue cycle management, budgeting,[...]
 
 I'm currently building **[Atrium](#-currently-building)**, an Executive Command Desk designed to give lean teams the operational leverage of a much larger organisation.
 
@@ -48,7 +48,7 @@ I'm currently building **[Atrium](#-currently-building)**, an Executive Command 
 ### 🚀 Currently Building
 
 **Atrium | The Executive Command Desk**
-> Managing time has become a job within the job. Atrium helps EAs, founders, and lean teams manage scheduling, multi-timezone coordination, travel, priorities, and productivity  all from one centralised desk.
+> Managing time has become a job within the job. Atrium helps EAs, founders, and lean teams manage scheduling, multi-timezone coordination, travel, priorities, and productivity  all from one centr[...]
 
 - 🗓️ Scheduling & diary management
 - 🌍 Multi-timezone intelligence & conflict detection
@@ -57,6 +57,11 @@ I'm currently building **[Atrium](#-currently-building)**, an Executive Command 
 - 🔔 Real-time notifications & calendar integrations
 
 *Currently onboarding founding users — reach out via LinkedIn if you're an EA, founder, or operator who wants to shape the product.*
+
+
+**Calendr Harmony Pro** — a professional scheduling & calendar coordination tool.
+
+- Repository: [Calendr Harmony Pro](https://github.com/csofong/calendr-harmony-pro)
 
 ---
 
@@ -67,7 +72,7 @@ I'm currently building **[Atrium](#-currently-building)**, an Executive Command 
 - Reduced account statement dispute rates by **70%** through streamlined approval and invoicing workflows
 - Boosted lead generation by **35%** through system automation of client order capture
 - Recognised with the **NRL (Mubadala Health) Employee Award** for revenue & billing collection performance during COVID-19.
-- Managed and oversaw an AED 550M receivables portfolio, driving strategic recovery initiatives that achieved approximately 95% collection of previously outstanding bad debts, significantly increasing cash realization and strengthening the overall value of the receivables portfolio.
+- Managed and oversaw an AED 550M receivables portfolio, driving strategic recovery initiatives that achieved approximately 95% collection of previously outstanding bad debts, significantly increa[...]
 
 ---
 
